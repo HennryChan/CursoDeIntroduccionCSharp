@@ -1,0 +1,14 @@
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\CursoDeIntroduccionC\bin\Debug\netcoreapp3.1\CursoDeIntroduccionC.exe
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\CursoDeIntroduccionC\bin\Debug\netcoreapp3.1\CursoDeIntroduccionC.deps.json
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\CursoDeIntroduccionC\bin\Debug\netcoreapp3.1\CursoDeIntroduccionC.runtimeconfig.json
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\CursoDeIntroduccionC\bin\Debug\netcoreapp3.1\CursoDeIntroduccionC.runtimeconfig.dev.json
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\CursoDeIntroduccionC\bin\Debug\netcoreapp3.1\CursoDeIntroduccionC.dll
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\CursoDeIntroduccionC\bin\Debug\netcoreapp3.1\CursoDeIntroduccionC.pdb
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\CursoDeIntroduccionC\obj\Debug\netcoreapp3.1\CursoDeIntroduccionC.csproj.AssemblyReference.cache
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\CursoDeIntroduccionC\obj\Debug\netcoreapp3.1\CursoDeIntroduccionC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\CursoDeIntroduccionC\obj\Debug\netcoreapp3.1\CursoDeIntroduccionC.AssemblyInfoInputs.cache
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\CursoDeIntroduccionC\obj\Debug\netcoreapp3.1\CursoDeIntroduccionC.AssemblyInfo.cs
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\CursoDeIntroduccionC\obj\Debug\netcoreapp3.1\CursoDeIntroduccionC.csproj.CoreCompileInputs.cache
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\CursoDeIntroduccionC\obj\Debug\netcoreapp3.1\CursoDeIntroduccionC.dll
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\CursoDeIntroduccionC\obj\Debug\netcoreapp3.1\CursoDeIntroduccionC.pdb
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\CursoDeIntroduccionC\obj\Debug\netcoreapp3.1\CursoDeIntroduccionC.genruntimeconfig.cache

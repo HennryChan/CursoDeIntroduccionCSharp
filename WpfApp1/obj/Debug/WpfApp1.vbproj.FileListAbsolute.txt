@@ -1,0 +1,17 @@
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\WpfApp1\bin\Debug\WpfApp1.xml
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\WpfApp1\obj\Debug\WpfApp1.vbproj.AssemblyReference.cache
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\WpfApp1\obj\Debug\MainWindow.g.vb
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\WpfApp1\obj\Debug\Application.g.vb
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\WpfApp1\obj\Debug\WpfApp1.Resources.resources
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\WpfApp1\obj\Debug\WpfApp1.vbproj.GenerateResource.cache
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\WpfApp1\obj\Debug\WpfApp1.vbproj.CoreCompileInputs.cache
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\WpfApp1\obj\Debug\WpfApp1.xml
+C:\Users\ropht\Documents\ISC\Blue Ocean\Modulo 4\Unidad 1\Proyectos del curso\CursoDeIntroduccionC\WpfApp1\obj\Debug\WpfApp1.pdb
